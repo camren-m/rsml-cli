@@ -709,10 +709,10 @@ dependencies = [
 ]
 
 [[package]]
-name = "rbx-rsml"
-version = "0.1.12"
+name = "rbx-rsml-camren-m"
+version = "0.1.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4b6ba58e6ef5894ff8e1b24efd75b898082e769d14fc01b67bd8e9d1b8b4309b"
+checksum = "e221dd9a404bc95f66aa8f9ca1c97e1f4986cef703ae3c99c8ca0bf225c3741b"
 dependencies = [
  "guarded",
  "indexmap",
@@ -846,7 +846,7 @@ dependencies = [
  "crossbeam-channel",
  "jod-thread",
  "memofs",
- "rbx-rsml",
+ "rbx-rsml-camren-m",
  "rbx_types",
  "serde",
  "serde_json",
